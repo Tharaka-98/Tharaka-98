@@ -3,7 +3,7 @@
 - 👨🏽‍💻 I'm currently work as a full stack developer.
 - 🌱 I’m currently learning Node.js & express.
 - 💞️ I’m looking to collaborate on open-source web development projects.
-- 📫 How to reach me via tharaka326@gmail.com
+- 📫 You can reach me via tharaka326@gmail.com
 
 <!---
 Tharaka-98/Tharaka-98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
