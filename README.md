@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tharaka-98
+- 👋 Hi, I’m Tharaka Senevirathne
 - 👀 I’m interested in full stack Development.
 - 👨🏽‍💻 I'm currently work as a full stack developer.
 - 🌱 I’m currently learning Node.js & express.
