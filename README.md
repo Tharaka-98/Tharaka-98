@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tharaka Senevirathne
 - 👀 I’m interested in full stack Development.
-- 👨🏽‍💻 I'm currently work as a full stack developer.
+- 👨🏽‍💻 I'm currently work as a Junior full stack developer.
 - 🌱 I’m currently learning Node.js & express.
 - 💞️ I’m looking to collaborate on open-source web development projects.
 - 📫 You can reach me via tharaka326@gmail.com
